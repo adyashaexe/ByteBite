@@ -1,0 +1,6 @@
+out/
+data/
+.git/
+.DS_Store
+README.md
+run.bat

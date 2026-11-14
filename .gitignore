@@ -1,6 +1,26 @@
-backend/target/
-frontend/node_modules/
-frontend/dist/
+# Build output
+out/
+*.class
+
+# Runtime data (JSON database, includes the token signing secret)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
 .idea/
+*.iml
 .vscode/
+.project
+.classpath
+.settings/
+
+# Logs and temp files
 *.log
+*.tmp
+
+# Environment files
+.env
+.env.*
