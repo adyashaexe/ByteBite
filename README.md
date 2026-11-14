@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # 🍽️ ByteBite
 
 ### A full-featured food delivery platform written in pure Java 25
 
-🌐 **Live Demo:** [https://bytebite-6ga1.onrender.com](https://bytebite-6ga1.onrender.com)
+<a href="https://bytebite-6ga1.onrender.com"><img src="https://img.shields.io/badge/🚀_Live_Demo-Open_ByteBite-2ea44f?style=for-the-badge" alt="Open ByteBite Live Demo" /></a>
 
 **Browse restaurants · build a cart · place orders · track the courier live · run the business from an animated admin dashboard**
 
@@ -39,7 +40,7 @@
 15. [Trying the API with curl](#-trying-the-api-with-curl)
 16. [Troubleshooting](#-troubleshooting)
 17. [Limitations](#-limitations)
-19. [License](#-license)
+18. [License](#-license)
 
 ---
 
